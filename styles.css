@@ -1,0 +1,46 @@
+.header{
+    background-color: lemonchiffon;
+    width: 100vw;
+    height: 30vh;
+}
+.header__logo{
+width:auto;
+height:auto;
+}
+.header__navegador ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.header__navegador li{
+    display: inline-block;
+    padding: 20px;
+}
+.header__navegador a{
+    text-decoration: lavender;
+    color:indigo;
+    width: 100px;
+    display: block;
+    font-size: 20px;
+    font-family:cursive
+}
+.header__navegador a:hover {
+    background:lightsalmon;
+    transition: 0.4s;
+}
+.fondomain{
+    background-color:palegoldenrod;
+}
+.fondofooter{
+    background-color: peachpuff;
+    width: 100vw;
+    height: 20vh;
+}
+.fondofooter__logo{
+    display: inline-block;
+    justify-content: center;
+}
+
+
+    
